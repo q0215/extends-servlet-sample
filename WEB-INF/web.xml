@@ -5,11 +5,11 @@
     version="3.0">
 
     <servlet>
-        <servlet-name>CustmizeTestServlet</servlet-name>
-        <servlet-class>com.github.q9029.servlet.CustmizeTestServlet</servlet-class>
+        <servlet-name>CustomTestServlet</servlet-name>
+        <servlet-class>com.github.q9029.servlet.CustomTestServlet</servlet-class>
     </servlet>
     <servlet-mapping>
-        <servlet-name>CustmizeTestServlet</servlet-name>
+        <servlet-name>CustomTestServlet</servlet-name>
         <url-pattern>/</url-pattern>
     </servlet-mapping>
 

@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServletResponse;
 import com.github.q9029.servlet.wrapper.HttpRequestWrapper;
 import com.github.q9029.servlet.wrapper.HttpResponseWrapper;
 
-public class CustmizeTestServlet extends TestServlet {
+public class CustomTestServlet extends TestServlet {
 
     /** 直列化バージョンID. */
     private static final long serialVersionUID = 6644290695449836753L;
